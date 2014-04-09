@@ -1,6 +1,6 @@
 # ETSII ULL Grado de Informatica Asignatura Procesadores de Lenguajes
 
-## Práctica 6: Analizador de PL0 Ampliado Usando PEG.js 
+## Práctica 7: Analizador de PL0 Ampliado Usando Jison
 
 ## Objetivo:
 
@@ -39,5 +39,5 @@ MIT
 
 [1]:https://github.com/alu0100401165
 [2]:https://github.com/alu0100693737
-[3]:https://github.com/alu0100693737
+[3]:http://jisoncalc.herokuapp.com/
 
